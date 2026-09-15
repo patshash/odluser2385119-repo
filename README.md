@@ -1,6 +1,6 @@
 # Prime Motors
 
-Sample car dealership web application used by the **Securing Cloud Development** lab.
+Sample car dealership web application used by the **Securing Cloud Development** lab.?
 
 It is an [Express](https://expressjs.com/) app that renders Mustache templates and serves a
 small car inventory from `data/inventory.json`. A `gulp` build packages the app into `dist/`,
